@@ -1,12 +1,12 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import About from './components/About';
-import TestCatalog from './components/TestCatalog';
-import Features from './components/Features';
-import Clients from './components/Clients';
-import Contact from './components/Contact';
-import FloatingCTA from './components/FloatingCTA';
+import Navbar from './components/Navbar.tsx';
+import Hero from './components/Hero.tsx';
+import About from './components/About.tsx';
+import TestCatalog from './components/TestCatalog.tsx';
+import Features from './components/Features.tsx';
+import Clients from './components/Clients.tsx';
+import Contact from './components/Contact.tsx';
+import FloatingCTA from './components/FloatingCTA.tsx';
 
 function App() {
   return (
